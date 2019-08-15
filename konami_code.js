@@ -9,11 +9,10 @@ function init() {
       i++;
       if (i === code.length) {
         alert('Cheats Enabled.')
-      }
+      }}
       else {
         i = 0;
       }
-
-  })
+  });
 
 }
