@@ -9,8 +9,8 @@ function init() {
       i++;
       if (i === code.length) {
         alert('Cheats Enabled.')
-      }}
-      else {
+      }
+    } else {
         i = 0;
       }
   });
